@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Saikyo Portfolio",
     "url": "https://www.saikyo.me/",
     "icon": "https://icons.duckduckgo.com/ip3/www.saikyo.me.ico",
-    "slug": "google",
+    "slug": "saikyo-portfolio",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "time": 66,
+    "timeDay": 66,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {}
   }
 ]
