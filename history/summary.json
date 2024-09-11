@@ -4,19 +4,19 @@
     "url": "https://www.saikyo.me/",
     "icon": "https://icons.duckduckgo.com/ip3/www.saikyo.me.ico",
     "slug": "saikyo-portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 219,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "96.76%",
+    "uptimeDay": "85.06%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "96.76%",
+    "time": 146,
+    "timeDay": 226,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 215
     }
   }
 ]
