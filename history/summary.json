@@ -4,7 +4,7 @@
     "url": "https://www.saikyo.me/",
     "icon": "https://icons.duckduckgo.com/ip3/www.saikyo.me.ico",
     "slug": "saikyo-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
@@ -16,6 +16,7 @@
     "timeMonth": 171,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-08-22": 34,
       "2025-08-21": 2,
       "2024-10-22": 33,
